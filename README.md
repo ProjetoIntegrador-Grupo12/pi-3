@@ -1,7 +1,4 @@
 # Parte II do Projeto Integrador III (Desenvolvimento de Sistemas Orientado a Objetos)
-## Demonstração
-https://github.com/ProjetoIntegrador-Grupo12/pi-3/assets/144742247/84b8a35f-d0ec-4f47-a386-902432e1d28e
-
 ## Descrição
 <p align="center">
 <img style="text-align:center" src="https://github.com/ProjetoIntegrador-Grupo12/pi-3/assets/144742247/4e59c1ba-8d8e-4f49-a32c-660348e939fc" width="50%">
@@ -9,6 +6,9 @@ https://github.com/ProjetoIntegrador-Grupo12/pi-3/assets/144742247/84b8a35f-d0ec
 
 ## Link Figma
 https://www.figma.com/file/3auh7KTYoEk5SImvyosCgu/cadastro_jogador-(Copy)?type=design&node-id=0%3A1&mode=design&t=JcNULhrg08cqumVb-1
+
+## Demonstração
+https://github.com/ProjetoIntegrador-Grupo12/pi-3/assets/144742247/84b8a35f-d0ec-4f47-a386-902432e1d28e
 
 ---
 
