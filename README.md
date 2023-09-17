@@ -1,5 +1,5 @@
 ## Parte II do Projeto Integrador III (Desenvolvimento de Sistemas Orientado a Objetos)
-![mockup - cadastro](https://github.com/ProjetoIntegrador-Grupo12/pi-3/assets/144742247/4e59c1ba-8d8e-4f49-a32c-660348e939fc)
+<img src="https://github.com/ProjetoIntegrador-Grupo12/pi-3/assets/144742247/4e59c1ba-8d8e-4f49-a32c-660348e939fc" width="50">
 ## Descrição
 
 ## Integrantes do Grupo 12
