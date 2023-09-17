@@ -1,5 +1,6 @@
-# pi-3
-Parte II do Projeto Integrador III (Desenvolvimento de Sistemas Orientado a Objetos)
+## Parte II do Projeto Integrador III (Desenvolvimento de Sistemas Orientado a Objetos)
+
+## Descrição
 
 ## Integrantes do Grupo 12
 - Flávio George da Silva Romeiro (flaviogsromeiro)
@@ -9,7 +10,7 @@ Parte II do Projeto Integrador III (Desenvolvimento de Sistemas Orientado a Obje
 - Lucas Ivan Cruger da Silva (CrugerL)
 - Thaís Moreno Oliveira (Thais-Moreno)
 
-# Link Figma
+## Link Figma
 https://www.figma.com/file/3auh7KTYoEk5SImvyosCgu/cadastro_jogador-(Copy)?type=design&node-id=0%3A1&mode=design&t=JcNULhrg08cqumVb-1
 
 https://github.com/ProjetoIntegrador-Grupo12/pi-3/assets/144742247/84b8a35f-d0ec-4f47-a386-902432e1d28e
